@@ -1,0 +1,197 @@
+tag,Country,Population,AreaSqKm,Density
+afghan,"Afghanistan",36643815,652230,56.2
+albania,"Albania",3074579,27398,112.2
+algeria,"Algeria",42972878,2381740,18
+andorra,"Andorra",85635,468,183
+angola,"Angola",32522339,1246700,26.1
+anguilla,"Anguilla",18090,91,198.8
+antigua,"Antigua and Barbuda",98179,443,221.8
+argent,"Argentina",45479118,2736690,16.6
+armenia,"Armenia",3021324,28203,107.1
+aruba,"Aruba",119428,180,663.5
+australia,"Australia",25466459,7682300,3.3
+austria,"Austria",8859449,82445,107.5
+azerb,"Azerbaijan",10205810,82629,123.5
+bahamas,"Bahamas",337721,10010,33.7
+bahrain,"Bahrain",1505003,760,1980.3
+bangl,"Bangladesh",162650853,130170,1249.5
+barb,"Barbados",294560,430,685
+belarus,"Belarus",9477918,202900,46.7
+belgium,"Belgium",11720716,30278,387.1
+belize,"Belize",399598,22806,17.5
+benin,"Benin",12864634,110622,116.3
+bermuda,"Bermuda",71750,54,1328.7
+bhutan,"Bhutan",782318,38394,20.4
+bolivia,"Bolivia",11639909,1083301,10.7
+bosnia,"Bosnia and Herzegovina",3835586,51187,74.9
+bots,"Botswana",2317233,566730,4.1
+brazil,"Brazil",211715973,8358140,25.3
+brvirg,"British Virgin Islands",37381,151,247.6
+brunei,"Brunei",464478,5265,88.2
+bulg,"Bulgaria",6966899,108489,64.2
+burk,"Burkina Faso",20835401,273800,76.1
+burma,"Burma",56590071,653508,86.6
+burundi,"Burundi",11865821,25680,462.1
+caboverde,"Cabo Verde",583255,4033,144.6
+cambodia,"Cambodia",16926984,176515,95.9
+cameroon,"Cameroon",27744989,472710,58.7
+canada,"Canada",37694085,9093507,4.1
+cayman,"Cayman Islands",61944,264,234.6
+car,"Central African Republic",5990855,622984,9.6
+chad,"Chad",16877357,1259200,13.4
+channel,"Channel Islands",168125,194,866.6
+chile,"Chile",18186770,743812,24.5
+china,"China",1394015977,9326410,149.5
+colombia,"Colombia",49084841,1038700,47.3
+congbraz,"Congo (Brazzaville)",5293070,341500,15.5
+congkins,"Congo (Kinshasa)",101780263,2267048,44.9
+costa,"Costa Rica",5097988,51060,99.8
+cote,"Cote d'Ivoire",27481086,318003,86.4
+croatia,"Croatia",4227746,55974,75.5
+cuba,"Cuba",11059062,109820,100.7
+curacao,"Curacao",151345,444,340.9
+cyprus,"Cyprus",1266676,9241,137.1
+czechia,"Czechia",10702498,77247,138.5
+denmark,"Denmark",5869410,42434,138.3
+djibouti,"Djibouti",921804,23180,39.8
+dominica,"Dominica",74243,751,98.9
+dr,"Dominican Republic",10499707,48320,217.3
+ecuador,"Ecuador",16904867,276841,61.1
+egypt,"Egypt",104124440,995450,104.6
+elsal,"El Salvador",6481102,20721,312.8
+eg,"Equatorial Guinea",836178,28051,29.8
+eritrea,"Eritrea",6081196,101000,60.2
+estonia,"Estonia",1228624,42388,29
+eswatini,"Eswatini",1104479,17204,64.2
+ethiopia,"Ethiopia",108113150,1096570,98.6
+faroe,"Faroe Islands",51628,1393,37.1
+fiji,"Fiji",935974,18274,51.2
+finland,"Finland",5571665,303815,18.3
+france,"France",67848156,640427,105.9
+frpoly,"French Polynesia",295121,3827,77.1
+gabon,"Gabon",2230908,257667,8.7
+gambia,"Gambia",2173999,10120,214.8
+georgia,"Georgia",4930030,69700,70.7
+germany,"Germany",80159662,348672,229.9
+ghana,"Ghana",29340248,227533,128.9
+gibr,"Gibraltar",29581,7,4550.9
+greece,"Greece",10607051,130647,81.2
+greenl,"Greenland",57616,2166086,0
+grenada,"Grenada",113094,344,328.8
+guate,"Guatemala",17153288,107159,160.1
+guinea,"Guinea",12527440,245717,51
+gbissau,"Guinea-Bissau",1927104,28120,68.5
+guyana,"Guyana",750204,196849,3.8
+haiti,"Haiti",11067777,27560,401.6
+honduras,"Honduras",9235340,111890,82.5
+hungary,"Hungary",9771827,89608,109.1
+iceland,"Iceland",350734,100250,3.5
+india,"India",1326093247,2973193,446
+indonesia,"Indonesia",267026366,1811569,147.4
+iran,"Iran",84923314,1531595,55.4
+iraq,"Iraq",38872655,437367,88.9
+ireland,"Ireland",5176569,68883,75.2
+man,"Isle of Man",90499,572,158.2
+israel,"Israel",8675475,21497,403.6
+italy,"Italy",62402659,294140,212.2
+jamaica,"Jamaica",2808570,10831,259.3
+japan,"Japan",125507472,364485,344.3
+jordan,"Jordan",10820644,88802,121.9
+kazak,"Kazakhstan",19091949,2699700,7.1
+kenya,"Kenya",53527936,569140,94.1
+korea,"Korea, South",51835110,96920,534.8
+kosovo,"Kosovo",1932774,10887,177.5
+kuwait,"Kuwait",2993706,17818,168
+kyrg,"Kyrgyzstan",5964897,191801,31.1
+laos,"Laos",7447396,230800,32.3
+latvia,"Latvia",1881232,62249,30.2
+lebanon,"Lebanon",5469612,10230,534.7
+liberia,"Liberia",5073296,96320,52.7
+libya,"Libya",6890535,1759540,3.9
+liecht,"Liechtenstein",39137,160,244.6
+lith,"Lithuania",2731464,62680,43.6
+lux,"Luxembourg",628381,2586,243
+madag,"Madagascar",26955737,581540,46.4
+malawi,"Malawi",21196629,94080,225.3
+malaysia,"Malaysia",32652083,328657,99.4
+maldives,"Maldives",391904,298,1315.1
+mali,"Mali",19553397,1220190,16
+malta,"Malta",457267,316,1447
+mauritania,"Mauritania",4005475,1030700,3.9
+mauritius,"Mauritius",1379365,2030,679.5
+mexico,"Mexico",128649565,1943945,66.2
+moldova,"Moldova",3364496,32891,102.3
+monaco,"Monaco",30940,2,15470
+mongolia,"Mongolia",3168026,1553556,2
+monte,"Montenegro",609859,13452,45.3
+monts,"Montserrat",5373,102,52.7
+morocco,"Morocco",35561654,446300,79.7
+mozam,"Mozambique",30098197,786380,38.3
+namibia,"Namibia",2630073,823290,3.2
+nepal,"Nepal",30327877,143351,211.6
+neth,"Netherlands",17280397,33893,509.9
+nc,"New Caledonia",290009,18275,15.9
+nz,"New Zealand",4925477,264537,18.6
+nic,"Nicaragua",6203441,119990,51.7
+niger,"Niger",22772361,1266700,18
+nigeria,"Nigeria",214028302,910768,235
+nmac,"North Macedonia",2125971,25433,83.6
+norway,"Norway",5467439,304282,18
+oman,"Oman",3634689,309500,11.7
+pak,"Pakistan",233500636,770875,302.9
+panama,"Panama",3894082,74340,52.4
+png,"Papua New Guinea",7259456,452860,16
+para,"Paraguay",7191685,397302,18.1
+peru,"Peru",31914989,1279996,24.9
+phil,"Philippines",109180815,298170,366.2
+poland,"Poland",38282325,304255,125.8
+portugal,"Portugal",10302674,91470,112.6
+qatar,"Qatar",2444174,11586,211
+romania,"Romania",21302893,229891,92.7
+russia,"Russia",141722205,16377742,8.7
+rwanda,"Rwanda",12712431,24668,515.3
+stbart,"Saint Barthelemy",7122,25,284.9
+stkitts,"Saint Kitts and Nevis",53821,261,206.2
+stlucia,"Saint Lucia",166487,606,274.7
+stvin,"Saint Vincent and the Grenadines",101390,389,260.6
+smarino,"San Marino",34232,61,561.2
+saud,"Saudi Arabia",34173498,2149690,15.9
+senegal,"Senegal",15736368,192530,81.7
+serbia,"Serbia",7012165,77474,90.5
+seych,"Seychelles",95981,455,210.9
+sierra,"Sierra Leone",6624933,71620,92.5
+sing,"Singapore",6209660,709,8755.9
+stmaart,"Sint Maarten",43847,34,1289.6
+slovakia,"Slovakia",5440602,48105,113.1
+slovenia,"Slovenia",2102678,20151,104.3
+somalia,"Somalia",11757124,627337,18.7
+safrica,"South Africa",56463617,1214470,46.5
+spain,"Spain",50015792,498980,100.2
+srilanka,"Sri Lanka",22889201,64630,354.2
+stmartin,"St Martin",32556,54,598.5
+sudan,"Sudan",45561556,1861484,24.5
+suriname,"Suriname",609569,156000,3.9
+sweden,"Sweden",10202491,410335,24.9
+switz,"Switzerland",8403994,39997,210.1
+syria,"Syria",19398448,185887,104.4
+taiwan,"Taiwan*",23603049,32260,731.7
+tanz,"Tanzania",58552845,885800,66.1
+thai,"Thailand",68977400,510890,135
+timor,"Timor-Leste",1383723,14874,93
+togo,"Togo",8608444,54385,158.3
+trin,"Trinidad and Tobago",1208789,5128,235.7
+tunisia,"Tunisia",11721177,155360,75.4
+turkey,"Turkey",82017514,769632,106.6
+turcai,"Turks and Caicos Islands",55926,948,59
+uganda,"Uganda",43252966,197100,219.4
+ukraine,"Ukraine",43922939,579330,75.8
+uae,"United Arab Emirates",9992083,83600,119.5
+uk,"United Kingdom",65761117,241930,271.8
+uruguay,"Uruguay",3387605,175015,19.4
+us,"US",332639102,9149429,36.4
+uzbek,"Uzbekistan",30565411,425400,71.9
+venez,"Venezuela",28644603,882050,32.5
+vietnam,"Vietnam",98721275,310070,318.4
+wbank,"West Bank and Gaza",4818255,6000,803
+zambia,"Zambia",17426623,743398,23.4
+zimbabwe,"Zimbabwe",14546314,386847,37.6
