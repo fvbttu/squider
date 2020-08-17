@@ -1,0 +1,5 @@
+(Originally: fork the Reichlab repository to make a copy under fvbttu)
+- now: synch the forked repo (need to look up)
+- add the file to the forked version of the TTU-squider director (orig: needed to create with fake file and uploaded metadata etc)
+- viewing the forked version of the subdir, click the "pull request" button (below "go to file", "add file" ...)
+- if issues, consult https://github.com/reichlab/covid19-forecast-hub/wiki/Troubleshooting-Pull-Requests
