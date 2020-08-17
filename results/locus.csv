@@ -1,0 +1,54 @@
+State,abbreviation,location
+Alaska,ak,02
+Alabama,al,01
+Arkansas,ar,05
+Arizona,az,04
+California,ca,06
+Colorado,co,08
+Connecticut,ct,09
+District of Columbia,dc,11
+Delaware,de,10
+Florida,fl,12
+Georgia,ga,13
+Hawaii,hi,15
+Iowa,ia,19
+Idaho,id,16
+Illinois,il,17
+Indiana,in,18
+Kansas,ks,20
+Kentucky,ky,21
+Louisiana,la,22
+Massachusetts,ma,25
+Maryland,md,24
+Maine,me,23
+Michigan,mi,26
+Minnesota,mn,27
+Missouri,mo,29
+Mississippi,ms,28
+Montana,mt,30
+North Carolina,nc,37
+North Dakota,nd,38
+Nebraska,ne,31
+New Hampshire,nh,33
+New Jersey,nj,34
+New Mexico,nm,35
+Nevada,nv,32
+New York,ny,36
+Ohio,oh,39
+Oklahoma,ok,40
+Oregon,or,41
+Pennsylvania,pa,42
+Puerto Rico,pr,72
+Rhode Island,ri,44
+South Carolina,sc,45
+South Dakota,sd,46
+Tennessee,tn,47
+Texas,tx,48
+Utah,ut,49
+Virginia,va,51
+Vermont,vt,50
+Washington,wa,53
+Wisconsin,wi,55
+West Virginia,wv,54
+Wyoming,wy,56
+United States,us,US
